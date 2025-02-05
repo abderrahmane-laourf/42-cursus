@@ -4,7 +4,7 @@ Welcome to **Pool C00** of the **42 School Network**! This module introduces the
 
 ## 📖 Overview 
 
-This module consists of simple exercises to help you get familiar with: 
+This module consists of simple exercises to help you get familiar with:
 
 ✅ Compiling and executing C programs  
 ✅ Basic syntax and structure of C 
