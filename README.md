@@ -2,7 +2,7 @@
 
 Welcome to **Pool C00** of the **42 School Network**! This module introduces the basics of the **C programming language**, covering fundamental concepts like variables, loops, conditions, and functions.  
 
-## 📖 Overview  
+## 📖 Overview 
 
 This module consists of simple exercises to help you get familiar with:  
 
