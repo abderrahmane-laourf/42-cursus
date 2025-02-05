@@ -7,7 +7,7 @@ Welcome to **Pool C00** of the **42 School Network**! This module introduces the
 This module consists of simple exercises to help you get familiar with:  
 
 ✅ Compiling and executing C programs  
-✅ Basic syntax and structure of C  
+✅ Basic syntax and structure of C 
 ✅ Standard input/output functions  
 ✅ Loops and conditions  
 ✅ Function creation and usage  
